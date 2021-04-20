@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AMG8854)(type Legacy)(uri ${KIPRJMOD}/Symbols/AMG8854.lib)(options "")(descr ""))
+  (lib (name EKMC1607111)(type Legacy)(uri ${KIPRJMOD}/Symbols/EKMC1607111.lib)(options "")(descr ""))
+)
